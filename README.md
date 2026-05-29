@@ -13,30 +13,24 @@
 
 <!-- 🎨 Design 박스 -->
 <table>
-  <tr><td colspan="3" align="center" bgcolor="#F7F8FA"><b>🎨 Design</b></td></tr>
+  <tr><td colspan="4" align="center" bgcolor="#F7F8FA"><b>🎨 Design</b></td></tr>
   <tr>
-    <td align="center" bgcolor="#F7F8FA"><img src="..." width="50"/><br/><sub>Figma</sub></td>
-    <td align="center" bgcolor="#F7F8FA"><img src="..." width="50"/><br/><sub>Illustrator</sub></td>
-    <td align="center" bgcolor="#F7F8FA"><img src="..." width="50"/><br/><sub>Photoshop</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br/><sub>Figma</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=ai" width="50"/><br/><sub>Illustrator</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=ps" width="50"/><br/><sub>Photoshop</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=ae" width="50"/><br/><sub>After Effects</sub></td>
   </tr>
 </table>
 
-<br/> <!-- 박스 간 간격 -->
+<br/>
 
 <!-- 💻 Development 박스 -->
 <table>
-  <tr><td colspan="3" align="center" bgcolor="#F7F8FA"><b>💻 Development</b></td></tr>
+  <tr><td colspan="1" align="center" bgcolor="#F7F8FA"><b>💻 Development</b></td></tr>
   <tr>
-    <td align="center" bgcolor="#F7F8FA"><img src="..." width="50"/><br/><sub>React</sub></td>
-    <td align="center" bgcolor="#F7F8FA"><img src="..." width="50"/><br/><sub>TypeScript</sub></td>
-    <td align="center" bgcolor="#F7F8FA"><img src="..." width="50"/><br/><sub>Python</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/><sub>VS Code</sub></td>
   </tr>
 </table>
-
-<!-- 둥근 테두리 + 그림자 효과 (일부 환경에서 지원) -->
-<td align="center" bgcolor="#F7F8FA" style="border-radius: 8px; border: 1px solid #E0E0E0;">
-  <img src="..." width="50"/><br/><sub>Tool</sub>
-</td>
 
 ![gif](https://cutegif.neocities.org/graphics/animals/bunnies/bunnydiv2.gif)
 <img width="32" height="32" alt="image" src="https://cutegif.neocities.org/graphics/objects/mailbox1.gif" />
