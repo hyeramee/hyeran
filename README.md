@@ -15,27 +15,6 @@
 <table>
   <tr><td colspan="4" align="center" bgcolor="#F7F8FA"><b>🎨 Design</b></td></tr>
   <tr>
-    <td align="center" bgcolor="#F7F8FA" style="border-radius:8px; border:1px solid #E0E0E0;"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br/><sub>Figma</sub></td>
-    <td align="center" bgcolor="#F7F8FA" style="border-radius:8px; border:1px solid #E0E0E0;"><img src="https://skillicons.dev/icons?i=ai" width="50"/><br/><sub>Illustrator</sub></td>
-    <td align="center" bgcolor="#F7F8FA" style="border-radius:8px; border:1px solid #E0E0E0;"><img src="https://skillicons.dev/icons?i=ps" width="50"/><br/><sub>Photoshop</sub></td>
-    <td align="center" bgcolor="#F7F8FA" style="border-radius:8px; border:1px solid #E0E0E0;"><img src="https://skillicons.dev/icons?i=ae" width="50"/><br/><sub>After Effects</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- 💻 Development 박스 -->
-<table>
-  <tr><td colspan="1" align="center" bgcolor="#F7F8FA"><b>💻 Development</b></td></tr>
-  <tr>
-    <td align="center" bgcolor="#F7F8FA" style="border-radius:8px; border:1px solid #E0E0E0;"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/><sub>VS Code</sub></td>
-  </tr>
-</table>
-
-<!-- 🎨 Design 박스 -->
-<table>
-  <tr><td colspan="4" align="center" bgcolor="#F7F8FA"><b>🎨 Design</b></td></tr>
-  <tr>
     <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br/><sub>Figma</sub></td>
     <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=ai" width="50"/><br/><sub>Illustrator</sub></td>
     <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=ps" width="50"/><br/><sub>Photoshop</sub></td>
