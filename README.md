@@ -6,13 +6,13 @@
 </picture>
 
 
-### 👋 안녕하세요, 이혜란입니다
+<h2>### 👋 안녕하세요, 이혜란입니다</h2>
 <h3>웹 표준과 UI 구현력을 바탕으로, 사용자가 이용하기 편한 화면을 만듭니다.</h3>
 <h4>UI/UX 디자인 경험을 바탕으로 가이드를 오차 없이 코드로 재현하며, 웹 접근성을 고려하여 화면을 설계하는 프론트엔드 개발자입니다.</h4>
 
 ----
 
-### 💻 Tech Stack
+###**Tech Stack**
 
 <!-- 로고만 (보기용) -->
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)](https://skillicons.dev)
@@ -25,6 +25,6 @@ Figma, Photoshop, Illustrator, After Effects, VS Code
 
 
 
-📫 **Contact**
+###**Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:이메일)
