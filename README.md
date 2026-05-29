@@ -24,6 +24,7 @@
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)
 
 <!-- 로고만 (보기용) -->
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)](https://skillicons.dev)
@@ -34,7 +35,7 @@
 Figma, Photoshop, Illustrator, After Effects, VS Code
 </details>
 
-![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)
+
 
 📫 **Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
