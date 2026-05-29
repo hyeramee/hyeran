@@ -6,8 +6,9 @@
 </picture>
 
 
-### 👋 안녕하세요, [이름]입니다
-🚀 [한 줄 소개] | 💼 [현재 역할/관심 분야]
+### 👋 안녕하세요, 이혜란입니다
+🚀 웹 표준과 UI 구현력을 바탕으로, 사용자가 이용하기 편한 화면을 만듭니다.
+💼 UI/UX 디자인 경험을 바탕으로 가이드를 오차 없이 코드로 재현하며, 웹 접근성을 고려하여 화면을 설계하는 프론트엔드 개발자입니다.
 
 📊 **GitHub Stats**
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical)
