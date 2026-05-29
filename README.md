@@ -32,17 +32,7 @@
   </tr>
 </table>
 
-<table>
-  <tr><td align="center" bgcolor="#F7F8FA"><b>📫 Contact</b></td></tr>
-  <tr>
-    <td align="center" bgcolor="#F7F8FA">
-      <a href="mailto:ranghye2@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50"/><br/>
-        <sub>ranghye2@gmail.com</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Email](https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ranghye2@gmail.com)
 
 ![gif](https://cutegif.neocities.org/graphics/animals/bunnies/bunnydiv2.gif)
 <a href="mailto:ranghye2@gmail.com">
