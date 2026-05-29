@@ -33,5 +33,10 @@
   </tr>
 </table>
 
+<!-- 둥근 테두리 + 그림자 효과 (일부 환경에서 지원) -->
+<td align="center" bgcolor="#F7F8FA" style="border-radius: 8px; border: 1px solid #E0E0E0;">
+  <img src="..." width="50"/><br/><sub>Tool</sub>
+</td>
+
 ![gif](https://cutegif.neocities.org/graphics/animals/bunnies/bunnydiv2.gif)
 <img width="32" height="32" alt="image" src="https://cutegif.neocities.org/graphics/objects/mailbox1.gif" />
