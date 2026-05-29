@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FCCF7&center=true&vCenter=true&width=435&lines=Hello;안녕하세요;こんにちは;Bonjour;Hola;Olá;Hallo;Ciao)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FCCF7&center=true&vCenter=true&width=435&lines=Hello+World;안녕하세요;こんにちは;Bonjour;Hola;Olá;Hallo;Ciao)](https://git.io/typing-svg)
 ### 👋 안녕하세요, [이름]입니다
 🚀 [한 줄 소개] | 💼 [현재 역할/관심 분야]
 
