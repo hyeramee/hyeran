@@ -10,9 +10,9 @@
 <h4>UI/UX 디자인 경험을 바탕으로 가이드를 오차 없이 코드로 재현하며 웹 접근성을 고려하여 화면을 설계하는 프론트엔드 개발자입니다.</h4>
 
 <br></br>
-<table width="100%">
+<table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td bgcolor="#F7F8FA">
+    <td style="background-color:#F7F8FA; padding:16px; width:100%;">
 
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)](https://skillicons.dev)
@@ -21,7 +21,7 @@
 </td>
   </tr>
   <tr>
-    <td bgcolor="#F7F8FA">
+    <td style="background-color:#F7F8FA; padding:16px; width:100%;">
 
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ranghye2@gmail.com)
