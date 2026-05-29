@@ -17,7 +17,7 @@
 ### 💻 Tech Stack
 
 ### 💻 Tech Stack
-
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)](https://skillicons.dev)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
