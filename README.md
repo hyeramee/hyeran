@@ -3,6 +3,8 @@
     srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=FFFFFF&background=0D1117&vCenter=true&width=435&height=52&lines=안녕하세요;Hello;こんにちは;你好世界;Bonjour;Hola;Olá;مرحبا;Привет"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=000000&background=FFFFFF&vCenter=true&width=435&height=52&lines=안녕하세요;Hello;こんにちは;你好世界;Bonjour;Hola;Olá;مرحبا;Привет" alt="Typing"/>
 </picture>
+
+
 ### 👋 안녕하세요, [이름]입니다
 🚀 [한 줄 소개] | 💼 [현재 역할/관심 분야]
 
