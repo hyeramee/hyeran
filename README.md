@@ -6,7 +6,7 @@
 </picture>
 
 <h2>안녕하세요, 이혜란입니다<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c520c826-4d16-4c6b-bead-1389715c77d0" />
-" width="50"/></h2>
+</h2>
 <h3>웹 표준과 UI 구현력을 바탕으로, 사용자가 이용하기 편한 화면을 만듭니다.</h3>
 <h4>UI/UX 디자인 경험을 바탕으로 가이드를 오차 없이 코드로 재현하며 웹 접근성을 고려하여 화면을 설계하는 프론트엔드 개발자입니다.</h4>
 
@@ -28,3 +28,5 @@ Figma, Photoshop, Illustrator, After Effects, VS Code
 [![Email](https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ranghye2@gmail.com)
 
 ![gif](https://cutegif.neocities.org/graphics/animals/bunnies/bunnydiv2.gif)
+<img width="32" height="32" alt="image" src="https://cutegif.neocities.org/graphics/objects/mailbox1.gif
+" />
