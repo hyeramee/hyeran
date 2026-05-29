@@ -32,5 +32,7 @@
   </tr>
 </table>
 
+[![Email](https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ranghye2@gmail.com)
+
 ![gif](https://cutegif.neocities.org/graphics/animals/bunnies/bunnydiv2.gif)
 <img width="32" height="32" alt="image" src="https://cutegif.neocities.org/graphics/objects/mailbox1.gif" />
