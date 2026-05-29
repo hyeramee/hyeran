@@ -16,16 +16,17 @@
 💻 **Tech Stack**
 ### 💻 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="60" height="60" alt="React" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="60" height="60" alt="TypeScript" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="60" height="60" alt="Python" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="60" height="60" alt="Figma" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="60" height="60" alt="Illustrator" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="60" height="60" alt="Photoshop" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="60" height="60" alt="VS Code" style="margin: 5px"/>
-  <img src="https://cdn.simpleicons.org/slack/4A154B" width="60" height="60" alt="Slack" style="margin: 5px"/>
-</div>
+### 💻 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 📫 **Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
