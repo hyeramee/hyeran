@@ -1,8 +1,9 @@
-[<picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=FFFFFF&background=0D1117&vCenter=true&width=435&height=52&lines=안녕하세요;Hello;こんにちは;你好世界;Bonjour;Hola;Olá;مرحبا;Привет"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=000000&background=FFFFFF&vCenter=true&width=435&height=52&lines=안녕하세요;Hello;こんにちは;你好世界;Bonjour;Hola;Olá;مرحبا;Привет" alt="Typing"/>
-</picture>](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=000000&background=FFFFFF&vCenter=true&width=435&height=52&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;Hello;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;Bonjour;Hola;Ol%C3%A1;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82" alt="Typing")
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=FFFFFF&background=0D1117&vCenter=true&width=435&height=52&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;Hello;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;Bonjour;Hola;Ol%C3%A1;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=47&duration=2000&pause=300&color=000000&background=FFFFFF&vCenter=true&width=435&height=52&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;Hello;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;Bonjour;Hola;Ol%C3%A1;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82" alt="Typing"/>
+</picture>
 
 
 ### 👋 안녕하세요, [이름]입니다
