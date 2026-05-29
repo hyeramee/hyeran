@@ -26,6 +26,4 @@ Figma, Photoshop, Illustrator, After Effects, VS Code
 
 
 ### Contact
-![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:이메일)
