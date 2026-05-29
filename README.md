@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=70&lines=Hello+World!;안녕하세요!;こんにちは!;👋+Welcome;Coding+is+Fun" alt="Typing Animation" />
+</div>
 ### 👋 안녕하세요, [이름]입니다
 🚀 [한 줄 소개] | 💼 [현재 역할/관심 분야]
 
