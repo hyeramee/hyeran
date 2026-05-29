@@ -8,7 +8,7 @@
 <h1> 안녕하세요, 이혜란입니다<img src="https://cutegif.neocities.org/graphics/animals/cats/cat27.gif" width="50"/></h1>
 <h3>웹 표준과 UI 구현력을 바탕으로, 사용자가 이용하기 편한 화면을 만듭니다.</h3>
 <h4>UI/UX 디자인 경험을 바탕으로 가이드를 오차 없이 코드로 재현하며 웹 접근성을 고려하여 화면을 설계하는 프론트엔드 개발자입니다.</h4>
-
+<br></br>
 
 <!-- 🎨 Design 박스 -->
 <table>
@@ -33,8 +33,8 @@
 
 <table>
   <tr>
-    <td bgcolor="#F7F8FA"><b>📫 Contact</b></td>
-    <td><a href="mailto:ranghye2@gmail.com"><img src="https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a></td>
+    <td valign="middle" bgcolor="#F7F8FA"><b>📫 Contact</b></td>
+    <td valign="middle"><a href="mailto:ranghye2@gmail.com"><img src="https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a></td>
   </tr>
 </table>
 
