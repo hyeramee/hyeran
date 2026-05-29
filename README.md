@@ -26,4 +26,4 @@ Figma, Photoshop, Illustrator, After Effects, VS Code
 
 
 ### Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:이메일)
+[![Email](https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranghye2@gmail.com)
