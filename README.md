@@ -10,21 +10,23 @@
 <h4>UI/UX 디자인 경험을 바탕으로 가이드를 오차 없이 코드로 재현하며 웹 접근성을 고려하여 화면을 설계하는 프론트엔드 개발자입니다.</h4>
 
 <br></br>
-### Tech Stack
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<!-- 로고만 (보기용) -->
+### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,vscode)](https://skillicons.dev)
+<!-- Figma, Photoshop, Illustrator, After Effects, VS Code -->
 
-<!-- 검색용 텍스트 (숨김) -->
-<details>
-<summary>Tech Stack</summary>
-Figma, Photoshop, Illustrator, After Effects, VS Code
-</details>
+</td>
+    <td valign="top" width="50%">
 
-
-
-### Contact
+### 📫 Contact
 [![Email](https://img.shields.io/badge/ranghye2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ranghye2@gmail.com)
+
+</td>
+  </tr>
+</table>
 
 ![gif](https://cutegif.neocities.org/graphics/animals/bunnies/bunnydiv2.gif)
 <img width="32" height="32" alt="image" src="https://cutegif.neocities.org/graphics/objects/mailbox1.gif" />
