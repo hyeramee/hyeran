@@ -25,9 +25,10 @@
 
 <!-- 💻 Development 박스 -->
 <table>
-  <tr><td colspan="1" align="center" bgcolor="#F7F8FA"><b>💻 Development</b></td></tr>
+  <tr><td colspan="2" align="center" bgcolor="#F7F8FA"><b>💻 Development</b></td></tr>
   <tr>
-    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/><sub>VS Code</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=html" width="50"/><br/><sub>HTML</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=css" width="50"/><br/><sub>CSS</sub></td>
   </tr>
 </table>
 
