@@ -29,7 +29,7 @@
   <tr>
     <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=html" width="50"/><br/><sub>HTML</sub></td>
     <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=css" width="50"/><br/><sub>CSS</sub></td>
-    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/><sub>Tailwind</sub></td>
+    <td align="center" bgcolor="#F7F8FA"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/><sub>Tailwind CSS</sub></td>
   </tr>
 </table>
 
